@@ -6,7 +6,7 @@ Orquestrar scripts desenvolvidos em python, projeto tem como principal objetivo 
 
 ## Rascunho do projeto
 
-![App Screenshot](https://github.com/henriqueweiss/orchestrador/blob/new_features/Ambiente.png)
+![App Screenshot](https://github.com/matheusbarquette/orchestrator/blob/main/assets/fluxo.png?raw=true)
 
 ## Demo
 
