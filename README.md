@@ -8,6 +8,9 @@ Orquestrar scripts desenvolvidos em python, projeto tem como principal objetivo 
 
 ![App Screenshot](https://github.com/henriqueweiss/orchestrador/blob/new_features/Ambiente.png)
 
+## Demo
+
+![Logo](https://github.com/matheusbarquette/orchestrator/blob/main/assets/demo.gif?raw=true)
 
 ## Stack utilizada
 
