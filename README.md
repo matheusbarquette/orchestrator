@@ -56,7 +56,7 @@ Orquestrar scripts desenvolvidos em python, projeto tem como principal objetivo 
 - Realizar o download do script python diretamente do GIT
 - Montar o ambiente para a execução, de acordo com os requirements
 - Executar o script
-- Atualizar as informações do DB
+- Atualizar as informações no orchestrator após terminar de executar a tarefa.
 
 **WebSocket**: uma forma de manter o sicronizmo entre o frontend e nosso "Agent"
 
